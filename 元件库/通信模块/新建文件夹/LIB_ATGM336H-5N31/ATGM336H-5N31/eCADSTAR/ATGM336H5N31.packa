@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ATGM336H-5N31"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-15-10:31:48)
+    (mountForm default
+        (footprintRef "ATGM336H5N31")
+        (spec "System")
+    )
+)

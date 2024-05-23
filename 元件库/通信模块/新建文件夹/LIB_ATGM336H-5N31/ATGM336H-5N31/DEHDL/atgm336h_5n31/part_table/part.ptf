@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ATGM336H_5N31'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ZHONGKEWEI", "ATGM336H-5N31" (!) = "", "ATGM336H5N31", "Other", "", "", "", "", "GSM & GPRS & GPS Modules 9.7X10.1mm RoHS", "https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-ATGM336H-5N31_C90770.pdf", "2.6 mm"
+END_PART
+
+END.

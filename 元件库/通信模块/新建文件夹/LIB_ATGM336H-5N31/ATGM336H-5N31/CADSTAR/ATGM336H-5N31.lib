@@ -1,0 +1,18 @@
+.ATGM336H-5N31 :1 ;GSM & GPRS & GPS Modules 9.7X10.1mm RoHS
+ATGM336H5N31
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="TXD" 3="RXD" 4="1PPS" 5="ON/OFF" 6="VBAT" 7="NC_1" 8="VCC" 9="NRESET" 10="GND_2" 11="RF_IN" 12="GND_3" 13="NC_2" 14="VCC_RF" 15="RESERVED_1" 16="SDA" 17="SCL" 18="RESERVED_2"
+*MXP 18
+*DFN ATGM336H-5N31
+~!Manufacturer_Name (ZHONGKEWEI)
+~!Manufacturer_Part_Number (ATGM336H-5N31)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-ATGM336H-5N31_C90770.pdf)
+~!Height (2.6mm)
+~!3D_Model (ATGM336H-5N31)
+ATGM336H-5N31
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 
